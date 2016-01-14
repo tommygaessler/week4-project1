@@ -18,5 +18,4 @@
 // 5. Hide all of the odd table rows (Austin, Colin, & Jessica's rows)
 
 
-
-// 5. Hide all paragraphs when they're clicked.
+// 6. Hide all paragraphs when they're clicked.
