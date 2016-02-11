@@ -50,6 +50,7 @@ body {
   background-color: #000;
   color: #fff;
 }
+
 .wood {
   background-image: url("http://phandroid.s3.amazonaws.com/wp-content/uploads/2015/03/wood-wallpaper-3.jpg");
   background-size: 100%;
@@ -59,4 +60,14 @@ body {
   background-image: url("http://www.henderson-art.co.uk/art/wallpaper/chaos.jpg");
   background-size: 100%;
   color: #fff;
+}
+
+.restore
+{
+    background-color: #fff;
+}
+
+.clones
+{
+    
 }
